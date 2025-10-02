@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 orchestrator_demo.py
-Minimal UAV orchestration: user prompt + video features -> LLM -> validated server JSON.
+Minimal UAV awesome orchestration: user prompt + video features -> LLM -> validated server JSON.
 
 Setup:
   pip install openai
